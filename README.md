@@ -35,7 +35,7 @@ This repository is inspired from [programmers-coding-test](https://github.com/co
 
 - 전체 문제 수: 22문제
 - 풀이 문제 수: 0문제
-- 풀이 완료 예상 시점: 예정 없음
+- 풀이 완료 예상 시점: 미정
 
 | 번호 | 문제 출처 | 풀이 |
 | --- | ------- | --- |
@@ -44,7 +44,7 @@ This repository is inspired from [programmers-coding-test](https://github.com/co
 
 - 전체 문제 수: 6문제
 - 풀이 문제 수: 0문제
-- 풀이 완료 예상 시점: 예정 없음
+- 풀이 완료 예상 시점: 미정
 
 | 번호 | 문제 출처 | 풀이 |
 | --- | ------- | --- |
