@@ -11,6 +11,7 @@ This repository is inspired from [programmers-coding-test](https://github.com/co
 
 | 번호 | 문제 출처 | 풀이 |
 | --- | ------- | --- |
+| 1 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [7의-개수.py](https://github.com/scottsuk0306/programmers/blob/main/level-0/7의-개수.py) |
 
 
 ### Level 1
