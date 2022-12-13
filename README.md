@@ -3,6 +3,16 @@ My solution to programmers problems. Written in Python.
 
 This repository is inspired from [programmers-coding-test](https://github.com/codeisneverodd/programmers-coding-test).
 
+### Level 0
+
+- 전체 문제 수: 100문제
+- 풀이 문제 수: 0문제
+- 풀이 완료 시점: 미정
+
+| 번호 | 문제 출처 | 풀이 |
+| --- | ------- | --- |
+
+
 ### Level 1
 
 - 전체 문제 수: 55문제
