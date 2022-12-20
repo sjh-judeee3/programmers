@@ -6,28 +6,13 @@ def gcd(a, b):
     return a
 
 def solution(arr):
-    
+    answer = 1
     arr = sorted(arr)
 
-    gcd = 1
-
-    #gcd 구하기
-    for i in range(1, arr[0]+1):
-        flag = True
-        
-        for num in arr:
-            if num % i != 0:
-                flag = False
-                break
-                
-        if flag == True and i > gcd:
-            gcd = i
-            
-    answer = 1
-    for num in arr:
-        answer = answer * num
-    answer = int(answer // gcd ** (len(arr)-1))
+    #두 개의 수끼리 최소공배수를 구하고 최소공배수와 다음 수의 최소공배수 구하기
+    for i in range(1, len(arr)):
+        gcd_num = gcd(arr[i-1], arr[i])
+        answer = int(arr[i-1] * arr[i] / gcd_num)
+        arr[i] = answer
 
     return answer
-
-print(solution([3, 4, 9, 16]))
