@@ -37,7 +37,7 @@ This repository is inspired from [programmers-coding-test](https://github.com/co
 | --- | ------- | --- |
 | 1 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [기능-개발.py](https://github.com/scottsuk0306/programmers/blob/main/level-2/기능-개발.py) |
 | 2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [문자열-압축.py](https://github.com/scottsuk0306/programmers/blob/main/level-2/문자열-압축.py) |
-| 3 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [최솟값-만들기.py](https://github.com/scottsuk0306/programmers/blob/main/level-2/최솟값-만들기.py) |
+| 3 | [최솟값 만들기](https://school.progra   mmers.co.kr/learn/courses/30/lessons/12941) | [최솟값-만들기.py](https://github.com/scottsuk0306/programmers/blob/main/level-2/최솟값-만들기.py) |
 
 ### Level 3
 
