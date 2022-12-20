@@ -26,6 +26,8 @@ This repository is inspired from [programmers-coding-test](https://github.com/co
 | 1 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.py](https://github.com/scottsuk0306/programmers/blob/main/level-1/삼총사.py) |
 | 2 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [내적.py](https://github.com/scottsuk0306/programmers/blob/main/level-1/내적.py) |
 | 3 | [시저-암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [시저-암호.py](https://github.com/scottsuk0306/programmers/blob/main/level-1/시저-암호.py) |
+| 4 | [두-개-뽑아서-더하기.py](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [두-개-뽑아서-더하기.py](https://github.com/scottsuk0306/programmers/blob/main/level-1/두-개-뽑아서-더하기.py) |
+
 
 ### Level 2 
 
